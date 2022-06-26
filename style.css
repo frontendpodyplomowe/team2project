@@ -1,19 +1,19 @@
 /* navigation */
 
 .navbar {
-	background-color: black;
+	background-color: rgb(61, 148, 210);
 	font-size: 0.9rem;
-	letter-spacing: 0.1rem;
+	letter-spacing: 0.5rem;
 	font-weight: bold;
+	font-family: 'Century Gothic';
 }
 
 .navbar-brand img {
 	height: 3rem;
-  background-color: rgb(61, 148, 210);
+  
   font-size: 0.7rem;
   letter-spacing: 0.8rem;
   font-weight: bold;
-  font-family: 'Century Gothic';
 }
 
 .navbar .navbar-nav li {
